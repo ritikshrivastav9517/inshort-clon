@@ -4,7 +4,7 @@ This project is a clone of the InShorts news application developed using the MER
 
 ## Features
 
-- **User Authentication**: Allow users to sign up, log in, and manage their accounts securely.
+
 - **Customized News Feed**: Personalize the news feed based on user interests and preferences.
 - **Categorization**: Organize news articles into different categories for easy navigation.
 - **Search Functionality**: Enable users to search for specific news articles or topics.
@@ -16,7 +16,6 @@ This project is a clone of the InShorts news application developed using the MER
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
-- **API Integration**: Third-party APIs for fetching news articles
+
 
 
